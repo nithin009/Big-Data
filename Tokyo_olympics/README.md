@@ -1,5 +1,4 @@
 ## Tokyo Olympics 2021 Data Analysis
-Conducted an in-depth data analysis for a leading global manufacturing company specializing in the production of cycling equipment and accessories.
 
 ### Overview:
 
